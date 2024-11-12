@@ -1,0 +1,15 @@
+contourpy
+cycler
+fonttools
+future==1.0.0
+kiwisolver
+matplotlib
+numpy
+packaging
+pillow
+pyparsing
+python-dateutil
+six
+tornado
+unicodedata2
+imageio
